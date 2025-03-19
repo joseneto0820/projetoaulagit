@@ -1,6 +1,6 @@
 Faculdade UNIESP
 Curso de Ciência da Computação
-Disciplina: Tópicos Essenciais para Programação
+Disciplina: Tecnologias Para Front-End
 
 Lista de Exercício
 
@@ -8,4 +8,6 @@ Questão 01
 
 Questão 02
 
-Questão 03
+Questão 04
+
+Questão 05
